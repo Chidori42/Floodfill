@@ -45,3 +45,7 @@ Distance Calculation: Uses convert_array to fill int_grid with distances from th
 Output: Prints the distance grid.
 Shortest Path Calculation: Calls find_shortest_path to retrieve the shortest path from the target to the player.
 Path Output: Prints the path coordinates from the target to the player.
+
+Resurses :
+    Floodfill :  https://www.youtube.com/watch?v=Zwh-QNlsurI
+    BFS       :  https://www.youtube.com/watch?v=oDqjPvD54Ss
